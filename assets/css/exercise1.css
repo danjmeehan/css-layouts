@@ -1,0 +1,28 @@
+.header {
+	height: 40px;
+	background-color: orange;
+}
+
+.container{
+	height: 500px;
+}
+
+.container .sidebar{
+	height: 100%;
+	width: 25%;
+	background-color: yellow;
+	float: left;
+}
+
+.container .content{
+	height: 100%;
+	width: 75%;
+	background-color: blue;
+	float: right;
+}
+
+.footer{
+	height: 40px;
+	clear: both;
+	background-color: green;
+}
